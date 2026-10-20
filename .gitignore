@@ -1,1 +1,4 @@
 rahasia.txt
+*.exe
+*.o
+.vscode/
